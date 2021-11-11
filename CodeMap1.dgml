@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="CodeSchema_Assembly" Bounds="-178.146666666667,-2040.9656627415,204.56,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(638580b0-7910-40ef-b674-dcb34da308cd.OutputPath)" Group="Collapsed" Label="Direct3DInteropSample.exe" />
+    <Node Id="(@10)" Category="CodeSchema_Assembly" Bounds="0,959.040687258512,120.58,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(d49233f8-f29c-47dd-9975-c4c9e4502720.OutputPath)" Group="Collapsed" Label="Avalonia.dll" />
+    <Node Id="(@11)" Category="CodeSchema_Assembly" Bounds="0,2354.04328725851,192.436666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(b859ae7c-f34f-4a9e-88ae-e0e7229fde1e.OutputPath)" Group="Collapsed" Label="Avalonia.Headless.Vnc.dll" />
+    <Node Id="(@12)" Category="CodeSchema_Assembly" Bounds="0,334.03918725851,165.953333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(7b92af71-6287-4693-9dcb-bd5b6e927e23.OutputPath)" Group="Collapsed" Label="Avalonia.Android.dll" />
+    <Node Id="(@13)" Category="CodeSchema_Assembly" Bounds="21.5766666666666,-1910.9656627415,200.993333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(29132311-1848-4fd6-ae0c-4ff841151bd3.OutputPath)" Group="Collapsed" Label="ControlCatalog.Android.dll" />
+    <Node Id="(@14)" Category="CodeSchema_Assembly" Bounds="0,2079.04278725851,217.373333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3278f3a9-9509-4a3f-a15b-bdc8b5bff632.OutputPath)" Group="Collapsed" Label="Avalonia.Controls.DataGrid.dll" />
+    <Node Id="(@15)" Category="CodeSchema_Assembly" Bounds="0,2024.04268725851,107.183333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3f00bc43-5095-477f-93d8-e65b08179a00.OutputPath)" Group="Collapsed" Label="_build.dll" />
+    <Node Id="(@16)" Category="CodeSchema_Assembly" Bounds="-178.146666666667,-2150.9656627415,185.416666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3c84e04b-36cf-4d0d-b965-c26dd649d1f3.OutputPath)" Group="Collapsed" Label="NativeEmbedSample.dll" />
+    <Node Id="(@17)" Category="CodeSchema_Assembly" Bounds="0,1914.04248725851,211.42,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(878fefe0-cd14-41cb-90b0-dbcb163e8f15.OutputPath)" Group="Collapsed" Label="Avalonia.DesktopRuntime.dll" />
+    <Node Id="(@18)" Category="CodeSchema_Assembly" Bounds="-198.146666666667,-1855.9656627415,202.45,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(39d7b147-1a5b-47c2-9d01-21fb7c47c4b3.OutputPath)" Group="Collapsed" Label="ControlCatalog.NetCore.dll" />
+    <Node Id="(@19)" Category="CodeSchema_Assembly" Bounds="0,1089.04098725851,147.536666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(b09b78d8-9b26-48b0-9149-d64a2f120f3f.OutputPath)" Group="Collapsed" Label="Avalonia.Base.dll" />
+    <Node Id="(@2)" Category="CodeSchema_Assembly" Bounds="34.3033333333333,-1855.9656627415,207.296666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(2b888490-d14a-4bca-ab4b-48676fa93c9b.OutputPath)" Group="Collapsed" Label="ControlCatalog.Desktop.exe" />
+    <Node Id="(@20)" Category="CodeSchema_Assembly" Bounds="0,1859.04238725851,157.26,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(12a91a62-c064-42ca-9a8c-a1272f354388.OutputPath)" Group="Collapsed" Label="Avalonia.Native.dll" />
+    <Node Id="(@21)" Category="CodeSchema_Assembly" Bounds="0,1419.04158725851,158.71,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(f1baa01a-f176-4c6a-b39d-5b40bb1b148f.OutputPath)" Group="Collapsed" Label="Avalonia.Styling.dll" />
+    <Node Id="(@22)" Category="CodeSchema_Assembly" Bounds="76.4133333333333,-2025.9656627415,155.62,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(d0a739b9-3c68-4ba6-a328-41606954b6bd.OutputPath)" Group="Collapsed" Label="ControlCatalog.dll" />
+    <Node Id="(@23)" Category="CodeSchema_Assembly" Bounds="0,1639.04198725851,178.366666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(6417b24e-49c2-4985-8db2-3ab9d898ec91.OutputPath)" Group="Collapsed" Label="Avalonia.ReactiveUI.dll" />
+    <Node Id="(@24)" Category="CodeSchema_Assembly" Bounds="0,1804.04228725851,166.23,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(7ccaefc4-135d-401d-bddd-896b9b7d3569.OutputPath)" Group="Collapsed" Label="Avalonia.OpenGL.dll" />
+    <Node Id="(@25)" Category="CodeSchema_Assembly" Bounds="-2.8421709430404E-14,49.0384872585096,193.07,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3e53a01a-b331-47f3-b828-4a5717e77a24.OutputPath)" Group="Collapsed" Label="Avalonia.Markup.Xaml.dll" />
+    <Node Id="(@26)" Category="CodeSchema_Assembly" Bounds="0,1749.04218725851,211.093333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(d78a720c-c0c6-478b-8564-f167f9bdd01b.OutputPath)" Group="Collapsed" Label="Avalonia.Remote.Protocol.dll" />
+    <Node Id="(@27)" Category="CodeSchema_Assembly" Bounds="0,2409.04338725851,178.406666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(fe2f3e5e-1e34-4972-8dc1-5c2c588e5ece.OutputPath)" Group="Collapsed" Label="Avalonia.MicroCom.dll" />
+    <Node Id="(@28)" Category="CodeSchema_Assembly" Bounds="76.4133333333332,-2135.9656627415,131.466666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(bc594fd5-4af2-409e-a1e6-04123f54d7c5.OutputPath)" Group="Collapsed" Label="MiniMvvm.dll" />
+    <Node Id="(@29)" Category="CodeSchema_Assembly" Bounds="0,389.03928725851,246.61,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(ff69b927-c545-49ae-8e16-3d14d621aa12.OutputPath)" Group="Collapsed" Label="Avalonia.AndroidTestApplication.dll" />
+    <Node Id="(@3)" Category="CodeSchema_Assembly" Bounds="1.4210854715202E-14,844.040337258511,224.513333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(050cc912-ff49-4a8b-b534-9544017446dd.OutputPath)" Group="Collapsed" Label="Avalonia.Designer.HostApp.exe" />
+    <Node Id="(@30)" Category="CodeSchema_Assembly" Bounds="0,1584.04188725851,177.853333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(d211e587-d8bc-45b9-95a4-f297c8fa5200.OutputPath)" Group="Collapsed" Label="Avalonia.Animation.dll" />
+    <Node Id="(@31)" Category="CodeSchema_Assembly" Bounds="254.356666666667,-2080.9656627415,148.35,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(e2999e4a-9086-401f-898c-aeb0ad38e676.OutputPath)" Group="Collapsed" Label="RemoteDemo.dll" />
+    <Node Id="(@32)" Category="CodeSchema_Assembly" Bounds="76.4133333333332,-2080.9656627415,147.943333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(08b3e6b9-1cd5-443c-9f61-6d49d1c5f162.OutputPath)" Group="Collapsed" Label="BindingDemo.dll" />
+    <Node Id="(@33)" Category="CodeSchema_Assembly" Bounds="-198.146666666667,-1965.9656627415,177.173333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(fbcaf3d0-2808-4934-8e96-3f607594517b.OutputPath)" Group="Collapsed" Label="VirtualizationDemo.dll" />
+    <Node Id="(@34)" Category="CodeSchema_Assembly" Bounds="237.88,-2135.9656627415,144.946666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(f1fdc5b0-4654-416f-ae69-e3e9bbd87801.OutputPath)" Group="Collapsed" Label="RenderDemo.dll" />
+    <Node Id="(@35)" Category="CodeSchema_Assembly" Bounds="-1.4210854715202E-14,-1335.9642127415,198.21,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(cbc4ff2f-92d4-420b-be21-9fe0b930b04e.OutputPath)" Group="Collapsed" Label="Avalonia.Win32.Interop.dll" />
+    <Node Id="(@36)" Category="CodeSchema_Assembly" Bounds="0,1014.04078725851,167.076666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3c471044-3640-45e3-b1b2-16d2ff8399ee.OutputPath)" Group="Collapsed" Label="Avalonia.Desktop.dll" />
+    <Node Id="(@37)" Category="CodeSchema_Assembly" Bounds="0,2189.04298725851,189.663333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(4d36cec8-53f2-40a5-9a37-79aae356e2da.OutputPath)" Group="Collapsed" Label="Avalonia.FreeDesktop.dll" />
+    <Node Id="(@38)" Category="CodeSchema_Assembly" Bounds="55.9183333333332,-505.962912741493,257.716666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(f1381f98-4d24-409a-a6c5-1c5b1e08bb08.OutputPath)" Group="Collapsed" Label="Avalonia.DesignerSupport.TestApp.dll" />
+    <Node Id="(@39)" Category="CodeSchema_Assembly" Bounds="-1.4210854715202E-14,-5.96151274149042,164.043333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(6417e941-21bc-467b-a771-0de389353ce6.OutputPath)" Group="Collapsed" Label="Avalonia.Markup.dll" />
+    <Node Id="(@4)" Category="CodeSchema_Assembly" Bounds="9.02666666666661,-1965.9656627415,179.126666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(57e0455d-d565-44bb-b069-ee1aa20f8337.OutputPath)" Group="Collapsed" Label="ControlCatalogiOS.exe" />
+    <Node Id="(@40)" Category="CodeSchema_Assembly" Bounds="0,104.03858725851,231.973333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(909a8cbd-7d0e-42fd-b841-022ad8925820.OutputPath)" Group="Collapsed" Label="Avalonia.Markup.Xaml.Loader.dll" />
+    <Node Id="(@41)" Category="CodeSchema_Assembly" Bounds="-2.8421709430404E-14,674.039937258511,215.383333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(854568d5-13d1-4b4f-b50d-534dc7efd3c9.OutputPath)" Group="Collapsed" Label="Avalonia.LinuxFramebuffer.dll" />
+    <Node Id="(@42)" Category="CodeSchema_Assembly" Bounds="227.82,-2190.9656627415,126.703333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(f40fc0a2-1bc3-401c-bfc1-928ec4d4a9ce.OutputPath)" Group="Collapsed" Label="Previewer.dll" />
+    <Node Id="(@43)" Category="CodeSchema_Assembly" Bounds="2.8421709430404E-14,789.040337258511,183.833333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(aec9031e-06ea-4a9e-9e7f-7d7c719404dd.OutputPath)" Group="Collapsed" Label="MicroComGenerator.dll" />
+    <Node Id="(@44)" Category="CodeSchema_Assembly" Bounds="0,1529.04178725851,184.196666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(7062ae20-5dcc-4442-9645-8195bdece63e.OutputPath)" Group="Collapsed" Label="Avalonia.Diagnostics.dll" />
+    <Node Id="(@45)" Category="CodeSchema_Assembly" Bounds="0,2134.04288725851,162.703333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(4d55985a-1ee2-4f25-ad39-6ea8bc04f8fb.OutputPath)" Group="Collapsed" Label="Avalonia.Dialogs.dll" />
+    <Node Id="(@46)" Category="CodeSchema_Assembly" Bounds="-198.146666666667,-1910.9656627415,189.723333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(d775decb-4e00-4ed5-a75a-5fce58adff0b.OutputPath)" Group="Collapsed" Label="PlatformSanityChecks.dll" />
+    <Node Id="(@47)" Category="CodeSchema_Assembly" Bounds="186.251666666667,-890.962912741493,187.133333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(410ac439-81a1-4eb5-b5e9-6a7fc6b77f4b.OutputPath)" Group="Collapsed" Label="Avalonia.Benchmarks.dll" />
+    <Node Id="(@48)" Category="CodeSchema_Assembly" Bounds="0,1969.04258725851,179.526666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(bf28998d-072c-439a-afbb-2fe5021241e0.OutputPath)" Group="Collapsed" Label="Avalonia.Build.Tasks.dll" />
+    <Node Id="(@49)" Category="CodeSchema_Assembly" Bounds="0,1144.04108725851,159.53,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(eb582467-6abb-43a1-b052-e981ba910e3a.OutputPath)" Group="Collapsed" Label="Avalonia.Visuals.dll" />
+    <Node Id="(@5)" Category="CodeSchema_Assembly" Bounds="-178.146666666667,-2095.9656627415,188.566666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(c7a69145-60b6-4882-97d6-a3921dd43978.OutputPath)" Group="Collapsed" Label="WindowsInteropTest.exe" />
+    <Node Id="(@50)" Category="CodeSchema_Assembly" Bounds="0,1364.04148725851,167.7,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(d2221c82-4a25-4583-9b43-d791e3f6820c.OutputPath)" Group="Collapsed" Label="Avalonia.Controls.dll" />
+    <Node Id="(@51)" Category="CodeSchema_Assembly" Bounds="0,504.03958725851,141.506666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(4488ad85-1495-4809-9aa4-ddfe0a48527e.OutputPath)" Group="Collapsed" Label="Avalonia.iOS.dll" />
+    <Node Id="(@52)" Category="CodeSchema_Assembly" Bounds="0,2299.04318725851,170.52,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(8c89950f-f5d9-47fc-8066-cbc1ec3df8fc.OutputPath)" Group="Collapsed" Label="Avalonia.Headless.dll" />
+    <Node Id="(@53)" Category="CodeSchema_Assembly" Bounds="-217.405,-560.962912741493,240.963333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(52f55355-d120-42ac-8116-8410a7d602fa.OutputPath)" Group="Collapsed" Label="Avalonia.DesignerSupport.Tests.dll" />
+    <Node Id="(@54)" Category="CodeSchema_Assembly" Bounds="-16.5716666666667,-890.962912741493,172.823333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(e1aa3dbf-9056-4530-9376-18119a7a3ffe.OutputPath)" Group="Collapsed" Label="Avalonia.LeakTests.dll" />
+    <Node Id="(@55)" Category="CodeSchema_Assembly" Bounds="53.5583333333334,-560.962912741493,241.57,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(dabfd304-d6a4-4752-8123-c2ccf7ac7831.OutputPath)" Group="Collapsed" Label="Avalonia.Direct2D1.RenderTests.dll" />
+    <Node Id="(@56)" Category="CodeSchema_Assembly" Bounds="-217.405,-725.962912741493,210.186666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(e1582370-37b3-403c-917f-8209551b1634.OutputPath)" Group="Collapsed" Label="Avalonia.Skia.RenderTests.dll" />
+    <Node Id="(@57)" Category="CodeSchema_Assembly" Bounds="-217.405,-670.962912741493,226.166666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(efb11458-9cdf-41c0-be4f-44af45a4cab8.OutputPath)" Group="Collapsed" Label="Avalonia.Direct2D1.UnitTests.dll" />
+    <Node Id="(@58)" Category="CodeSchema_Assembly" Bounds="-217.405,-835.962912741493,194.783333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(e1240b49-7b4b-4371-a00e-068778c5cf0b.OutputPath)" Group="Collapsed" Label="Avalonia.Skia.UnitTests.dll" />
+    <Node Id="(@59)" Category="CodeSchema_Assembly" Bounds="-217.405,-890.962912741493,170.833333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(88060192-33d5-4932-b0f9-8bd2763e857d.OutputPath)" Group="Collapsed" Label="Avalonia.UnitTests.dll" />
+    <Node Id="(@6)" Category="CodeSchema_Assembly" Bounds="-1.4210854715202E-14,619.039937258511,143.196666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(41b02319-965d-4945-8005-c1a3d1224165.OutputPath)" Group="Collapsed" Label="Avalonia.X11.dll" />
+    <Node Id="(@60)" Category="CodeSchema_Assembly" Bounds="-217.405,-450.962912741493,267.626666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(351337f5-d66f-461b-a957-4ef60bdb4ba6.OutputPath)" Group="Collapsed" Label="Avalonia.Controls.DataGrid.UnitTests.dll" />
+    <Node Id="(@61)" Category="CodeSchema_Assembly" Bounds="7.37833333333323,-835.962912741493,197.79,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(2905ff23-53fb-45e6-aa49-6af47a172056.OutputPath)" Group="Collapsed" Label="Avalonia.Base.UnitTests.dll" />
+    <Node Id="(@62)" Category="CodeSchema_Assembly" Bounds="21.4783333333332,-780.962912741493,208.963333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(47ecdf59-def8-4c53-87b1-2098a3429059.OutputPath)" Group="Collapsed" Label="Avalonia.Styling.UnitTests.dll" />
+    <Node Id="(@63)" Category="CodeSchema_Assembly" Bounds="-217.405,-615.962912741493,228.62,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(af915d5c-ab00-4ea0-b5e6-001f4ae84e68.OutputPath)" Group="Collapsed" Label="Avalonia.ReactiveUI.UnitTests.dll" />
+    <Node Id="(@64)" Category="CodeSchema_Assembly" Bounds="-217.405,-505.962912741493,243.323333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(99135eab-653d-47e4-a378-c96e1278ca44.OutputPath)" Group="Collapsed" Label="Avalonia.Markup.Xaml.UnitTests.dll" />
+    <Node Id="(@65)" Category="CodeSchema_Assembly" Bounds="38.7616666666665,-670.962912741493,228.106666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(af227847-e65c-4be9-bce9-b551357788e0.OutputPath)" Group="Collapsed" Label="Avalonia.Animation.UnitTests.dll" />
+    <Node Id="(@66)" Category="CodeSchema_Assembly" Bounds="22.7816666666667,-725.962912741493,214.296666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(8ef392d5-1416-45aa-9956-7cbbc3229e8a.OutputPath)" Group="Collapsed" Label="Avalonia.Markup.UnitTests.dll" />
+    <Node Id="(@67)" Category="CodeSchema_Assembly" Bounds="260.441666666666,-780.962912741493,209.783333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(76716382-3159-460e-bda6-c5715cf606d7.OutputPath)" Group="Collapsed" Label="Avalonia.Visuals.UnitTests.dll" />
+    <Node Id="(@68)" Category="CodeSchema_Assembly" Bounds="267.078333333333,-725.962912741493,217.953333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(5ccb5571-7c30-4e7d-967d-0e2158ebd91f.OutputPath)" Group="Collapsed" Label="Avalonia.Controls.UnitTests.dll" />
+    <Node Id="(@69)" Category="CodeSchema_Assembly" Bounds="-217.405,-780.962912741493,208.883333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(db070a10-bf39-4752-8456-86e9d5928478.OutputPath)" Group="Collapsed" Label="Avalonia.Layout.UnitTests.dll" />
+    <Node Id="(@7)" Category="CodeSchema_Assembly" Bounds="0,-1390.9643127415,175.913333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3e908f67-5543-4879-a1dc-08eace79b3cd.OutputPath)" Group="Collapsed" Label="Avalonia.Direct2D1.dll" />
+    <Node Id="(@70)" Category="CodeSchema_Assembly" Bounds="235.168333333333,-835.962912741493,201.326666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(ac18926a-e784-40fe-b09d-bb0fe2b599f0.OutputPath)" Group="Collapsed" Label="Avalonia.Input.UnitTests.dll" />
+    <Node Id="(@71)" Category="CodeSchema_Assembly" Bounds="41.2149999999999,-615.962912741493,235.083333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(08478ef5-44e8-42e9-92d6-15e00ec038d8.OutputPath)" Group="Collapsed" Label="Avalonia.Interactivity.UnitTests.dll" />
+    <Node Id="(@72)" Category="CodeSchema_Assembly" Bounds="0,1474.04168725851,205.156666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(3e10a5fa-e8da-48b1-ad44-6a5b6cb7750f.OutputPath)" Group="Collapsed" Label="Avalonia.Themes.Default.dll" />
+    <Node Id="(@73)" Category="CodeSchema_Assembly" Bounds="0,2244.04308725851,199.53,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(c42d2fc1-a531-4ed4-84b9-89aec7c962fc.OutputPath)" Group="Collapsed" Label="Avalonia.Themes.Fluent.dll" />
+    <Node Id="(@74)" Category="CodeSchema_Assembly" Bounds="0,1694.04208725851,212.716666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(799a7bb5-3c2c-48b6-85a7-406a12c420da.OutputPath)" Group="Collapsed" Label="Avalonia.DesignerSupport.dll" />
+    <Node Id="(@75)" Category="CodeSchema_Assembly" Bounds="0,1199.04118725851,158.63,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(42472427-4774-4c81-8aff-9f27b8e31721.OutputPath)" Group="Collapsed" Label="Avalonia.Layout.dll" />
+    <Node Id="(@76)" Category="CodeSchema_Assembly" Bounds="0,1254.04128725851,151.073333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(62024b2d-53eb-4638-b26b-85eeaa54866e.OutputPath)" Group="Collapsed" Label="Avalonia.Input.dll" />
+    <Node Id="(@77)" Category="CodeSchema_Assembly" Bounds="76.4133333333333,-2190.9656627415,121.406666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(11be52af-e2dd-4cf0-b19a-05285acaf571.OutputPath)" Group="Collapsed" Label="Sandbox.dll" />
+    <Node Id="(@78)" Category="CodeSchema_Assembly" Bounds="0,1309.04138725851,184.83,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(6b0ed19d-a08b-461c-a9d9-a9ee40b0c06b.OutputPath)" Group="Collapsed" Label="Avalonia.Interactivity.dll" />
+    <Node Id="(@8)" Category="CodeSchema_Assembly" Bounds="-1.4210854715202E-14,-1445.9644127415,157.026666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(811a76cf-1cf6-440f-963b-bbe31bd72a82.OutputPath)" Group="Collapsed" Label="Avalonia.Win32.dll" />
+    <Node Id="(@9)" Category="CodeSchema_Assembly" Bounds="0,219.03888725851,144.53,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" FilePath="$(7d2d3083-71dd-4cc9-8907-39a0d86fb322.OutputPath)" Group="Collapsed" Label="Avalonia.Skia.dll" />
+    <Node Id="Android{7CF9789C-F1D3-4D0E-90E5-F1DF67A2753F}" Category="CodeMap_SolutionFolder" Bounds="-20,294.03908725851,286.61,140.0003" Group="Expanded" Label="Android" />
+    <Node Id="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" Category="CodeMap_SolutionFolder" Bounds="-198.146666666667,-2190.9656627415,244.56,195" Group="Expanded" Label="Interop" />
+    <Node Id="Linux{86C53C40-57AA-45B8-AD42-FAE0EFDF0F2B}" Category="CodeMap_SolutionFolder" Bounds="-20,579.039787258511,255.383333333333,140.0003" Group="Expanded" Label="Linux" />
+    <Node Id="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" Category="CodeMap_SolutionFolder" Bounds="-20,-45.9617127414906,271.973333333333,195.0004" Group="Expanded" Label="Markup" />
+    <Node Id="Packages{E870DCD7-F46A-498D-83FC-D0FD13E0A11C}" Category="CodeMap_SolutionFolder" Bounds="-20,919.040587258512,207.076666666667,140.0003" Group="Expanded" Label="Packages" />
+    <Node Id="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Category="CodeMap_SolutionFolder" Bounds="-218.146666666667,-2230.9656627415,640.853333333333,420" Group="Expanded" Label="Samples" />
+    <Node Id="Skia{3743B0F2-CC41-4F14-A8C8-267F579BF91E}" Category="CodeMap_SolutionFolder" Bounds="-20,179.03878725851,184.53,85.0002" Group="Expanded" Label="Skia" />
+    <Node Id="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Category="CodeMap_SolutionFolder" Bounds="-237.405,-930.962912741493,742.436666666667,525" Group="Expanded" Label="Tests" />
+    <Node Id="Tools{4ED8B739-6F4E-4CD4-B993-545E6B5CE637}" Category="CodeMap_SolutionFolder" Bounds="-20,749.040187258511,264.513333333333,140.0003" Group="Expanded" Label="Tools" />
+    <Node Id="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" Category="CodeMap_SolutionFolder" Bounds="-20,-1485.9645127415,238.21,195.0004" Group="Expanded" Label="Windows" />
+    <Node Id="iOS{0CB0B92E-6CFF-4240-80A5-CCAFE75D91E1}" Category="CodeMap_SolutionFolder" Bounds="-20,464.03948725851,181.506666666667,85.0002" Group="Expanded" Label="iOS" />
+  </Nodes>
+  <Links>
+    <Link Source="Android{7CF9789C-F1D3-4D0E-90E5-F1DF67A2753F}" Target="(@12)" Category="Contains" FetchingParent="Android{7CF9789C-F1D3-4D0E-90E5-F1DF67A2753F}" />
+    <Link Source="Android{7CF9789C-F1D3-4D0E-90E5-F1DF67A2753F}" Target="(@29)" Category="Contains" FetchingParent="Android{7CF9789C-F1D3-4D0E-90E5-F1DF67A2753F}" />
+    <Link Source="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" Target="(@1)" Category="Contains" FetchingParent="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" />
+    <Link Source="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" Target="(@16)" Category="Contains" FetchingParent="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" />
+    <Link Source="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" Target="(@5)" Category="Contains" FetchingParent="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" />
+    <Link Source="Linux{86C53C40-57AA-45B8-AD42-FAE0EFDF0F2B}" Target="(@41)" Category="Contains" FetchingParent="Linux{86C53C40-57AA-45B8-AD42-FAE0EFDF0F2B}" />
+    <Link Source="Linux{86C53C40-57AA-45B8-AD42-FAE0EFDF0F2B}" Target="(@6)" Category="Contains" FetchingParent="Linux{86C53C40-57AA-45B8-AD42-FAE0EFDF0F2B}" />
+    <Link Source="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" Target="(@25)" Category="Contains" FetchingParent="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" />
+    <Link Source="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" Target="(@39)" Category="Contains" FetchingParent="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" />
+    <Link Source="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" Target="(@40)" Category="Contains" FetchingParent="Markup{8B6A8209-894F-4BA1-B880-965FD453982C}" />
+    <Link Source="Packages{E870DCD7-F46A-498D-83FC-D0FD13E0A11C}" Target="(@10)" Category="Contains" FetchingParent="Packages{E870DCD7-F46A-498D-83FC-D0FD13E0A11C}" />
+    <Link Source="Packages{E870DCD7-F46A-498D-83FC-D0FD13E0A11C}" Target="(@36)" Category="Contains" FetchingParent="Packages{E870DCD7-F46A-498D-83FC-D0FD13E0A11C}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@13)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@18)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@2)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@22)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@28)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@31)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@32)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@33)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@34)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@4)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@42)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@46)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="(@77)" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" Target="Interop{A0CC0258-D18C-4AB3-854F-7101680FC3F9}" Category="Contains" FetchingParent="Samples{9B9E3891-2366-4253-A952-D08BCEB71098}" />
+    <Link Source="Skia{3743B0F2-CC41-4F14-A8C8-267F579BF91E}" Target="(@9)" Category="Contains" FetchingParent="Skia{3743B0F2-CC41-4F14-A8C8-267F579BF91E}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@38)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@47)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@53)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@54)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@55)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@56)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@57)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@58)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@59)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@60)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@61)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@62)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@63)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@64)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@65)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@66)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@67)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@68)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@69)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@70)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" Target="(@71)" Category="Contains" FetchingParent="Tests{C5A00AC3-B34C-4564-9BDD-2DA473EF4D8B}" />
+    <Link Source="Tools{4ED8B739-6F4E-4CD4-B993-545E6B5CE637}" Target="(@3)" Category="Contains" FetchingParent="Tools{4ED8B739-6F4E-4CD4-B993-545E6B5CE637}" />
+    <Link Source="Tools{4ED8B739-6F4E-4CD4-B993-545E6B5CE637}" Target="(@43)" Category="Contains" FetchingParent="Tools{4ED8B739-6F4E-4CD4-B993-545E6B5CE637}" />
+    <Link Source="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" Target="(@35)" Category="Contains" FetchingParent="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" />
+    <Link Source="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" Target="(@7)" Category="Contains" FetchingParent="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" />
+    <Link Source="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" Target="(@8)" Category="Contains" FetchingParent="Windows{B39A8919-9F95-48FE-AD7B-76E08B509888}" />
+    <Link Source="iOS{0CB0B92E-6CFF-4240-80A5-CCAFE75D91E1}" Target="(@51)" Category="Contains" FetchingParent="iOS{0CB0B92E-6CFF-4240-80A5-CCAFE75D91E1}" />
+  </Links>
+  <Categories>
+    <Category Id="CodeMap_SolutionFolder" Label="Solution Folder" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Solution Folder" />
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(638580b0-7910-40ef-b674-dcb34da308cd.OutputPathUri)" />
+    <Alias n="2" Uri="Assembly=$(2b888490-d14a-4bca-ab4b-48676fa93c9b.OutputPathUri)" />
+    <Alias n="3" Uri="Assembly=$(050cc912-ff49-4a8b-b534-9544017446dd.OutputPathUri)" />
+    <Alias n="4" Uri="Assembly=$(57e0455d-d565-44bb-b069-ee1aa20f8337.OutputPathUri)" />
+    <Alias n="5" Uri="Assembly=$(c7a69145-60b6-4882-97d6-a3921dd43978.OutputPathUri)" />
+    <Alias n="6" Uri="Assembly=$(41b02319-965d-4945-8005-c1a3d1224165.OutputPathUri)" />
+    <Alias n="7" Uri="Assembly=$(3e908f67-5543-4879-a1dc-08eace79b3cd.OutputPathUri)" />
+    <Alias n="8" Uri="Assembly=$(811a76cf-1cf6-440f-963b-bbe31bd72a82.OutputPathUri)" />
+    <Alias n="9" Uri="Assembly=$(7d2d3083-71dd-4cc9-8907-39a0d86fb322.OutputPathUri)" />
+    <Alias n="10" Uri="Assembly=$(d49233f8-f29c-47dd-9975-c4c9e4502720.OutputPathUri)" />
+    <Alias n="11" Uri="Assembly=$(b859ae7c-f34f-4a9e-88ae-e0e7229fde1e.OutputPathUri)" />
+    <Alias n="12" Uri="Assembly=$(7b92af71-6287-4693-9dcb-bd5b6e927e23.OutputPathUri)" />
+    <Alias n="13" Uri="Assembly=$(29132311-1848-4fd6-ae0c-4ff841151bd3.OutputPathUri)" />
+    <Alias n="14" Uri="Assembly=$(3278f3a9-9509-4a3f-a15b-bdc8b5bff632.OutputPathUri)" />
+    <Alias n="15" Uri="Assembly=$(3f00bc43-5095-477f-93d8-e65b08179a00.OutputPathUri)" />
+    <Alias n="16" Uri="Assembly=$(3c84e04b-36cf-4d0d-b965-c26dd649d1f3.OutputPathUri)" />
+    <Alias n="17" Uri="Assembly=$(878fefe0-cd14-41cb-90b0-dbcb163e8f15.OutputPathUri)" />
+    <Alias n="18" Uri="Assembly=$(39d7b147-1a5b-47c2-9d01-21fb7c47c4b3.OutputPathUri)" />
+    <Alias n="19" Uri="Assembly=$(b09b78d8-9b26-48b0-9149-d64a2f120f3f.OutputPathUri)" />
+    <Alias n="20" Uri="Assembly=$(12a91a62-c064-42ca-9a8c-a1272f354388.OutputPathUri)" />
+    <Alias n="21" Uri="Assembly=$(f1baa01a-f176-4c6a-b39d-5b40bb1b148f.OutputPathUri)" />
+    <Alias n="22" Uri="Assembly=$(d0a739b9-3c68-4ba6-a328-41606954b6bd.OutputPathUri)" />
+    <Alias n="23" Uri="Assembly=$(6417b24e-49c2-4985-8db2-3ab9d898ec91.OutputPathUri)" />
+    <Alias n="24" Uri="Assembly=$(7ccaefc4-135d-401d-bddd-896b9b7d3569.OutputPathUri)" />
+    <Alias n="25" Uri="Assembly=$(3e53a01a-b331-47f3-b828-4a5717e77a24.OutputPathUri)" />
+    <Alias n="26" Uri="Assembly=$(d78a720c-c0c6-478b-8564-f167f9bdd01b.OutputPathUri)" />
+    <Alias n="27" Uri="Assembly=$(fe2f3e5e-1e34-4972-8dc1-5c2c588e5ece.OutputPathUri)" />
+    <Alias n="28" Uri="Assembly=$(bc594fd5-4af2-409e-a1e6-04123f54d7c5.OutputPathUri)" />
+    <Alias n="29" Uri="Assembly=$(ff69b927-c545-49ae-8e16-3d14d621aa12.OutputPathUri)" />
+    <Alias n="30" Uri="Assembly=$(d211e587-d8bc-45b9-95a4-f297c8fa5200.OutputPathUri)" />
+    <Alias n="31" Uri="Assembly=$(e2999e4a-9086-401f-898c-aeb0ad38e676.OutputPathUri)" />
+    <Alias n="32" Uri="Assembly=$(08b3e6b9-1cd5-443c-9f61-6d49d1c5f162.OutputPathUri)" />
+    <Alias n="33" Uri="Assembly=$(fbcaf3d0-2808-4934-8e96-3f607594517b.OutputPathUri)" />
+    <Alias n="34" Uri="Assembly=$(f1fdc5b0-4654-416f-ae69-e3e9bbd87801.OutputPathUri)" />
+    <Alias n="35" Uri="Assembly=$(cbc4ff2f-92d4-420b-be21-9fe0b930b04e.OutputPathUri)" />
+    <Alias n="36" Uri="Assembly=$(3c471044-3640-45e3-b1b2-16d2ff8399ee.OutputPathUri)" />
+    <Alias n="37" Uri="Assembly=$(4d36cec8-53f2-40a5-9a37-79aae356e2da.OutputPathUri)" />
+    <Alias n="38" Uri="Assembly=$(f1381f98-4d24-409a-a6c5-1c5b1e08bb08.OutputPathUri)" />
+    <Alias n="39" Uri="Assembly=$(6417e941-21bc-467b-a771-0de389353ce6.OutputPathUri)" />
+    <Alias n="40" Uri="Assembly=$(909a8cbd-7d0e-42fd-b841-022ad8925820.OutputPathUri)" />
+    <Alias n="41" Uri="Assembly=$(854568d5-13d1-4b4f-b50d-534dc7efd3c9.OutputPathUri)" />
+    <Alias n="42" Uri="Assembly=$(f40fc0a2-1bc3-401c-bfc1-928ec4d4a9ce.OutputPathUri)" />
+    <Alias n="43" Uri="Assembly=$(aec9031e-06ea-4a9e-9e7f-7d7c719404dd.OutputPathUri)" />
+    <Alias n="44" Uri="Assembly=$(7062ae20-5dcc-4442-9645-8195bdece63e.OutputPathUri)" />
+    <Alias n="45" Uri="Assembly=$(4d55985a-1ee2-4f25-ad39-6ea8bc04f8fb.OutputPathUri)" />
+    <Alias n="46" Uri="Assembly=$(d775decb-4e00-4ed5-a75a-5fce58adff0b.OutputPathUri)" />
+    <Alias n="47" Uri="Assembly=$(410ac439-81a1-4eb5-b5e9-6a7fc6b77f4b.OutputPathUri)" />
+    <Alias n="48" Uri="Assembly=$(bf28998d-072c-439a-afbb-2fe5021241e0.OutputPathUri)" />
+    <Alias n="49" Uri="Assembly=$(eb582467-6abb-43a1-b052-e981ba910e3a.OutputPathUri)" />
+    <Alias n="50" Uri="Assembly=$(d2221c82-4a25-4583-9b43-d791e3f6820c.OutputPathUri)" />
+    <Alias n="51" Uri="Assembly=$(4488ad85-1495-4809-9aa4-ddfe0a48527e.OutputPathUri)" />
+    <Alias n="52" Uri="Assembly=$(8c89950f-f5d9-47fc-8066-cbc1ec3df8fc.OutputPathUri)" />
+    <Alias n="53" Uri="Assembly=$(52f55355-d120-42ac-8116-8410a7d602fa.OutputPathUri)" />
+    <Alias n="54" Uri="Assembly=$(e1aa3dbf-9056-4530-9376-18119a7a3ffe.OutputPathUri)" />
+    <Alias n="55" Uri="Assembly=$(dabfd304-d6a4-4752-8123-c2ccf7ac7831.OutputPathUri)" />
+    <Alias n="56" Uri="Assembly=$(e1582370-37b3-403c-917f-8209551b1634.OutputPathUri)" />
+    <Alias n="57" Uri="Assembly=$(efb11458-9cdf-41c0-be4f-44af45a4cab8.OutputPathUri)" />
+    <Alias n="58" Uri="Assembly=$(e1240b49-7b4b-4371-a00e-068778c5cf0b.OutputPathUri)" />
+    <Alias n="59" Uri="Assembly=$(88060192-33d5-4932-b0f9-8bd2763e857d.OutputPathUri)" />
+    <Alias n="60" Uri="Assembly=$(351337f5-d66f-461b-a957-4ef60bdb4ba6.OutputPathUri)" />
+    <Alias n="61" Uri="Assembly=$(2905ff23-53fb-45e6-aa49-6af47a172056.OutputPathUri)" />
+    <Alias n="62" Uri="Assembly=$(47ecdf59-def8-4c53-87b1-2098a3429059.OutputPathUri)" />
+    <Alias n="63" Uri="Assembly=$(af915d5c-ab00-4ea0-b5e6-001f4ae84e68.OutputPathUri)" />
+    <Alias n="64" Uri="Assembly=$(99135eab-653d-47e4-a378-c96e1278ca44.OutputPathUri)" />
+    <Alias n="65" Uri="Assembly=$(af227847-e65c-4be9-bce9-b551357788e0.OutputPathUri)" />
+    <Alias n="66" Uri="Assembly=$(8ef392d5-1416-45aa-9956-7cbbc3229e8a.OutputPathUri)" />
+    <Alias n="67" Uri="Assembly=$(76716382-3159-460e-bda6-c5715cf606d7.OutputPathUri)" />
+    <Alias n="68" Uri="Assembly=$(5ccb5571-7c30-4e7d-967d-0e2158ebd91f.OutputPathUri)" />
+    <Alias n="69" Uri="Assembly=$(db070a10-bf39-4752-8456-86e9d5928478.OutputPathUri)" />
+    <Alias n="70" Uri="Assembly=$(ac18926a-e784-40fe-b09d-bb0fe2b599f0.OutputPathUri)" />
+    <Alias n="71" Uri="Assembly=$(08478ef5-44e8-42e9-92d6-15e00ec038d8.OutputPathUri)" />
+    <Alias n="72" Uri="Assembly=$(3e10a5fa-e8da-48b1-ad44-6a5b6cb7750f.OutputPathUri)" />
+    <Alias n="73" Uri="Assembly=$(c42d2fc1-a531-4ed4-84b9-89aec7c962fc.OutputPathUri)" />
+    <Alias n="74" Uri="Assembly=$(799a7bb5-3c2c-48b6-85a7-406a12c420da.OutputPathUri)" />
+    <Alias n="75" Uri="Assembly=$(42472427-4774-4c81-8aff-9f27b8e31721.OutputPathUri)" />
+    <Alias n="76" Uri="Assembly=$(62024b2d-53eb-4638-b26b-85eeaa54866e.OutputPathUri)" />
+    <Alias n="77" Uri="Assembly=$(11be52af-e2dd-4cf0-b19a-05285acaf571.OutputPathUri)" />
+    <Alias n="78" Uri="Assembly=$(6b0ed19d-a08b-461c-a9d9-a9ee40b0c06b.OutputPathUri)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="050cc912-ff49-4a8b-b534-9544017446dd.OutputPath" Value="C:\gh\Avalonia\src\tools\Avalonia.Designer.HostApp\bin\Debug\net461\Avalonia.Designer.HostApp.exe" />
+    <Path Id="050cc912-ff49-4a8b-b534-9544017446dd.OutputPathUri" Value="file:///C:/gh/Avalonia/src/tools/Avalonia.Designer.HostApp/bin/Debug/net461/Avalonia.Designer.HostApp.exe" />
+    <Path Id="08478ef5-44e8-42e9-92d6-15e00ec038d8.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Interactivity.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Interactivity.UnitTests.dll" />
+    <Path Id="08478ef5-44e8-42e9-92d6-15e00ec038d8.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Interactivity.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Interactivity.UnitTests.dll" />
+    <Path Id="08b3e6b9-1cd5-443c-9f61-6d49d1c5f162.OutputPath" Value="C:\gh\Avalonia\samples\BindingDemo\bin\Debug\netcoreapp3.1\BindingDemo.dll" />
+    <Path Id="08b3e6b9-1cd5-443c-9f61-6d49d1c5f162.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/BindingDemo/bin/Debug/netcoreapp3.1/BindingDemo.dll" />
+    <Path Id="11be52af-e2dd-4cf0-b19a-05285acaf571.OutputPath" Value="C:\gh\Avalonia\samples\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.dll" />
+    <Path Id="11be52af-e2dd-4cf0-b19a-05285acaf571.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/Sandbox/bin/Debug/netcoreapp3.1/Sandbox.dll" />
+    <Path Id="12a91a62-c064-42ca-9a8c-a1272f354388.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Native\bin\Debug\netstandard2.0\Avalonia.Native.dll" />
+    <Path Id="12a91a62-c064-42ca-9a8c-a1272f354388.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Native/bin/Debug/netstandard2.0/Avalonia.Native.dll" />
+    <Path Id="2905ff23-53fb-45e6-aa49-6af47a172056.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Base.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Base.UnitTests.dll" />
+    <Path Id="2905ff23-53fb-45e6-aa49-6af47a172056.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Base.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Base.UnitTests.dll" />
+    <Path Id="29132311-1848-4fd6-ae0c-4ff841151bd3.OutputPath" Value="C:\gh\Avalonia\samples\ControlCatalog.Android\bin\Debug\ControlCatalog.Android.dll" />
+    <Path Id="29132311-1848-4fd6-ae0c-4ff841151bd3.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/ControlCatalog.Android/bin/Debug/ControlCatalog.Android.dll" />
+    <Path Id="2b888490-d14a-4bca-ab4b-48676fa93c9b.OutputPath" Value="C:\gh\Avalonia\samples\ControlCatalog.Desktop\bin\Debug\net461\ControlCatalog.Desktop.exe" />
+    <Path Id="2b888490-d14a-4bca-ab4b-48676fa93c9b.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/ControlCatalog.Desktop/bin/Debug/net461/ControlCatalog.Desktop.exe" />
+    <Path Id="3278f3a9-9509-4a3f-a15b-bdc8b5bff632.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Controls.DataGrid\bin\Debug\netstandard2.0\Avalonia.Controls.DataGrid.dll" />
+    <Path Id="3278f3a9-9509-4a3f-a15b-bdc8b5bff632.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Controls.DataGrid/bin/Debug/netstandard2.0/Avalonia.Controls.DataGrid.dll" />
+    <Path Id="351337f5-d66f-461b-a957-4ef60bdb4ba6.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Controls.DataGrid.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Controls.DataGrid.UnitTests.dll" />
+    <Path Id="351337f5-d66f-461b-a957-4ef60bdb4ba6.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Controls.DataGrid.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Controls.DataGrid.UnitTests.dll" />
+    <Path Id="39d7b147-1a5b-47c2-9d01-21fb7c47c4b3.OutputPath" Value="C:\gh\Avalonia\samples\ControlCatalog.NetCore\bin\Debug\netcoreapp3.1\ControlCatalog.NetCore.dll" />
+    <Path Id="39d7b147-1a5b-47c2-9d01-21fb7c47c4b3.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/ControlCatalog.NetCore/bin/Debug/netcoreapp3.1/ControlCatalog.NetCore.dll" />
+    <Path Id="3c471044-3640-45e3-b1b2-16d2ff8399ee.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Desktop\bin\Debug\netstandard2.0\Avalonia.Desktop.dll" />
+    <Path Id="3c471044-3640-45e3-b1b2-16d2ff8399ee.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Desktop/bin/Debug/netstandard2.0/Avalonia.Desktop.dll" />
+    <Path Id="3c84e04b-36cf-4d0d-b965-c26dd649d1f3.OutputPath" Value="C:\gh\Avalonia\samples\interop\NativeEmbedSample\bin\Debug\netcoreapp2.0\NativeEmbedSample.dll" />
+    <Path Id="3c84e04b-36cf-4d0d-b965-c26dd649d1f3.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/interop/NativeEmbedSample/bin/Debug/netcoreapp2.0/NativeEmbedSample.dll" />
+    <Path Id="3e10a5fa-e8da-48b1-ad44-6a5b6cb7750f.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Themes.Default\bin\Debug\netstandard2.0\Avalonia.Themes.Default.dll" />
+    <Path Id="3e10a5fa-e8da-48b1-ad44-6a5b6cb7750f.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Themes.Default/bin/Debug/netstandard2.0/Avalonia.Themes.Default.dll" />
+    <Path Id="3e53a01a-b331-47f3-b828-4a5717e77a24.OutputPath" Value="C:\gh\Avalonia\src\Markup\Avalonia.Markup.Xaml\bin\Debug\netstandard2.0\Avalonia.Markup.Xaml.dll" />
+    <Path Id="3e53a01a-b331-47f3-b828-4a5717e77a24.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Markup/Avalonia.Markup.Xaml/bin/Debug/netstandard2.0/Avalonia.Markup.Xaml.dll" />
+    <Path Id="3e908f67-5543-4879-a1dc-08eace79b3cd.OutputPath" Value="C:\gh\Avalonia\src\Windows\Avalonia.Direct2D1\bin\Debug\netstandard2.0\Avalonia.Direct2D1.dll" />
+    <Path Id="3e908f67-5543-4879-a1dc-08eace79b3cd.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Windows/Avalonia.Direct2D1/bin/Debug/netstandard2.0/Avalonia.Direct2D1.dll" />
+    <Path Id="3f00bc43-5095-477f-93d8-e65b08179a00.OutputPath" Value="C:\gh\Avalonia\nukebuild\bin\Debug\_build.dll" />
+    <Path Id="3f00bc43-5095-477f-93d8-e65b08179a00.OutputPathUri" Value="file:///C:/gh/Avalonia/nukebuild/bin/Debug/_build.dll" />
+    <Path Id="410ac439-81a1-4eb5-b5e9-6a7fc6b77f4b.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Benchmarks\bin\Debug\netcoreapp3.1\Avalonia.Benchmarks.dll" />
+    <Path Id="410ac439-81a1-4eb5-b5e9-6a7fc6b77f4b.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Benchmarks/bin/Debug/netcoreapp3.1/Avalonia.Benchmarks.dll" />
+    <Path Id="41b02319-965d-4945-8005-c1a3d1224165.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.X11\bin\Debug\netstandard2.0\Avalonia.X11.dll" />
+    <Path Id="41b02319-965d-4945-8005-c1a3d1224165.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.X11/bin/Debug/netstandard2.0/Avalonia.X11.dll" />
+    <Path Id="42472427-4774-4c81-8aff-9f27b8e31721.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Layout\bin\Debug\netstandard2.0\Avalonia.Layout.dll" />
+    <Path Id="42472427-4774-4c81-8aff-9f27b8e31721.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Layout/bin/Debug/netstandard2.0/Avalonia.Layout.dll" />
+    <Path Id="4488ad85-1495-4809-9aa4-ddfe0a48527e.OutputPath" Value="C:\gh\Avalonia\src\iOS\Avalonia.iOS\bin\Debug\xamarin.ios10\Avalonia.iOS.dll" />
+    <Path Id="4488ad85-1495-4809-9aa4-ddfe0a48527e.OutputPathUri" Value="file:///C:/gh/Avalonia/src/iOS/Avalonia.iOS/bin/Debug/xamarin.ios10/Avalonia.iOS.dll" />
+    <Path Id="47ecdf59-def8-4c53-87b1-2098a3429059.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Styling.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Styling.UnitTests.dll" />
+    <Path Id="47ecdf59-def8-4c53-87b1-2098a3429059.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Styling.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Styling.UnitTests.dll" />
+    <Path Id="4d36cec8-53f2-40a5-9a37-79aae356e2da.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.FreeDesktop\bin\Debug\netstandard2.0\Avalonia.FreeDesktop.dll" />
+    <Path Id="4d36cec8-53f2-40a5-9a37-79aae356e2da.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.FreeDesktop/bin/Debug/netstandard2.0/Avalonia.FreeDesktop.dll" />
+    <Path Id="4d55985a-1ee2-4f25-ad39-6ea8bc04f8fb.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Dialogs\bin\Debug\netstandard2.0\Avalonia.Dialogs.dll" />
+    <Path Id="4d55985a-1ee2-4f25-ad39-6ea8bc04f8fb.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Dialogs/bin/Debug/netstandard2.0/Avalonia.Dialogs.dll" />
+    <Path Id="52f55355-d120-42ac-8116-8410a7d602fa.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.DesignerSupport.Tests\bin\Debug\netcoreapp3.1\Avalonia.DesignerSupport.Tests.dll" />
+    <Path Id="52f55355-d120-42ac-8116-8410a7d602fa.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.DesignerSupport.Tests/bin/Debug/netcoreapp3.1/Avalonia.DesignerSupport.Tests.dll" />
+    <Path Id="57e0455d-d565-44bb-b069-ee1aa20f8337.OutputPath" Value="C:\gh\Avalonia\samples\ControlCatalog.iOS\bin\iPhone\Debug\ControlCatalogiOS.exe" />
+    <Path Id="57e0455d-d565-44bb-b069-ee1aa20f8337.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/ControlCatalog.iOS/bin/iPhone/Debug/ControlCatalogiOS.exe" />
+    <Path Id="5ccb5571-7c30-4e7d-967d-0e2158ebd91f.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Controls.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Controls.UnitTests.dll" />
+    <Path Id="5ccb5571-7c30-4e7d-967d-0e2158ebd91f.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Controls.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Controls.UnitTests.dll" />
+    <Path Id="62024b2d-53eb-4638-b26b-85eeaa54866e.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Input\bin\Debug\netstandard2.0\Avalonia.Input.dll" />
+    <Path Id="62024b2d-53eb-4638-b26b-85eeaa54866e.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Input/bin/Debug/netstandard2.0/Avalonia.Input.dll" />
+    <Path Id="638580b0-7910-40ef-b674-dcb34da308cd.OutputPath" Value="C:\gh\Avalonia\samples\interop\Direct3DInteropSample\bin\Debug\net461\Direct3DInteropSample.exe" />
+    <Path Id="638580b0-7910-40ef-b674-dcb34da308cd.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/interop/Direct3DInteropSample/bin/Debug/net461/Direct3DInteropSample.exe" />
+    <Path Id="6417b24e-49c2-4985-8db2-3ab9d898ec91.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.ReactiveUI\bin\Debug\netstandard2.0\Avalonia.ReactiveUI.dll" />
+    <Path Id="6417b24e-49c2-4985-8db2-3ab9d898ec91.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.ReactiveUI/bin/Debug/netstandard2.0/Avalonia.ReactiveUI.dll" />
+    <Path Id="6417e941-21bc-467b-a771-0de389353ce6.OutputPath" Value="C:\gh\Avalonia\src\Markup\Avalonia.Markup\bin\Debug\netstandard2.0\Avalonia.Markup.dll" />
+    <Path Id="6417e941-21bc-467b-a771-0de389353ce6.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Markup/Avalonia.Markup/bin/Debug/netstandard2.0/Avalonia.Markup.dll" />
+    <Path Id="6b0ed19d-a08b-461c-a9d9-a9ee40b0c06b.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Interactivity\bin\Debug\netstandard2.0\Avalonia.Interactivity.dll" />
+    <Path Id="6b0ed19d-a08b-461c-a9d9-a9ee40b0c06b.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Interactivity/bin/Debug/netstandard2.0/Avalonia.Interactivity.dll" />
+    <Path Id="7062ae20-5dcc-4442-9645-8195bdece63e.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Diagnostics\bin\Debug\netstandard2.0\Avalonia.Diagnostics.dll" />
+    <Path Id="7062ae20-5dcc-4442-9645-8195bdece63e.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Diagnostics/bin/Debug/netstandard2.0/Avalonia.Diagnostics.dll" />
+    <Path Id="76716382-3159-460e-bda6-c5715cf606d7.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Visuals.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Visuals.UnitTests.dll" />
+    <Path Id="76716382-3159-460e-bda6-c5715cf606d7.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Visuals.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Visuals.UnitTests.dll" />
+    <Path Id="799a7bb5-3c2c-48b6-85a7-406a12c420da.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.DesignerSupport\bin\Debug\netstandard2.0\Avalonia.DesignerSupport.dll" />
+    <Path Id="799a7bb5-3c2c-48b6-85a7-406a12c420da.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.DesignerSupport/bin/Debug/netstandard2.0/Avalonia.DesignerSupport.dll" />
+    <Path Id="7b92af71-6287-4693-9dcb-bd5b6e927e23.OutputPath" Value="C:\gh\Avalonia\src\Android\Avalonia.Android\bin\Debug\monoandroid11.0\Avalonia.Android.dll" />
+    <Path Id="7b92af71-6287-4693-9dcb-bd5b6e927e23.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Android/Avalonia.Android/bin/Debug/monoandroid11.0/Avalonia.Android.dll" />
+    <Path Id="7ccaefc4-135d-401d-bddd-896b9b7d3569.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.OpenGL\bin\Debug\netstandard2.0\Avalonia.OpenGL.dll" />
+    <Path Id="7ccaefc4-135d-401d-bddd-896b9b7d3569.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.OpenGL/bin/Debug/netstandard2.0/Avalonia.OpenGL.dll" />
+    <Path Id="7d2d3083-71dd-4cc9-8907-39a0d86fb322.OutputPath" Value="C:\gh\Avalonia\src\Skia\Avalonia.Skia\bin\Debug\netstandard2.0\Avalonia.Skia.dll" />
+    <Path Id="7d2d3083-71dd-4cc9-8907-39a0d86fb322.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Skia/Avalonia.Skia/bin/Debug/netstandard2.0/Avalonia.Skia.dll" />
+    <Path Id="811a76cf-1cf6-440f-963b-bbe31bd72a82.OutputPath" Value="C:\gh\Avalonia\src\Windows\Avalonia.Win32\bin\Debug\netstandard2.0\Avalonia.Win32.dll" />
+    <Path Id="811a76cf-1cf6-440f-963b-bbe31bd72a82.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Windows/Avalonia.Win32/bin/Debug/netstandard2.0/Avalonia.Win32.dll" />
+    <Path Id="854568d5-13d1-4b4f-b50d-534dc7efd3c9.OutputPath" Value="C:\gh\Avalonia\src\Linux\Avalonia.LinuxFramebuffer\bin\Debug\netstandard2.0\Avalonia.LinuxFramebuffer.dll" />
+    <Path Id="854568d5-13d1-4b4f-b50d-534dc7efd3c9.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Linux/Avalonia.LinuxFramebuffer/bin/Debug/netstandard2.0/Avalonia.LinuxFramebuffer.dll" />
+    <Path Id="878fefe0-cd14-41cb-90b0-dbcb163e8f15.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.DesktopRuntime\bin\Debug\net461\Avalonia.DesktopRuntime.dll" />
+    <Path Id="878fefe0-cd14-41cb-90b0-dbcb163e8f15.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.DesktopRuntime/bin/Debug/net461/Avalonia.DesktopRuntime.dll" />
+    <Path Id="88060192-33d5-4932-b0f9-8bd2763e857d.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.UnitTests\bin\Debug\netstandard2.0\Avalonia.UnitTests.dll" />
+    <Path Id="88060192-33d5-4932-b0f9-8bd2763e857d.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.UnitTests/bin/Debug/netstandard2.0/Avalonia.UnitTests.dll" />
+    <Path Id="8c89950f-f5d9-47fc-8066-cbc1ec3df8fc.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Headless\bin\Debug\netstandard2.0\Avalonia.Headless.dll" />
+    <Path Id="8c89950f-f5d9-47fc-8066-cbc1ec3df8fc.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Headless/bin/Debug/netstandard2.0/Avalonia.Headless.dll" />
+    <Path Id="8ef392d5-1416-45aa-9956-7cbbc3229e8a.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Markup.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Markup.UnitTests.dll" />
+    <Path Id="8ef392d5-1416-45aa-9956-7cbbc3229e8a.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Markup.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Markup.UnitTests.dll" />
+    <Path Id="909a8cbd-7d0e-42fd-b841-022ad8925820.OutputPath" Value="C:\gh\Avalonia\src\Markup\Avalonia.Markup.Xaml.Loader\bin\Debug\netstandard2.0\Avalonia.Markup.Xaml.Loader.dll" />
+    <Path Id="909a8cbd-7d0e-42fd-b841-022ad8925820.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Markup/Avalonia.Markup.Xaml.Loader/bin/Debug/netstandard2.0/Avalonia.Markup.Xaml.Loader.dll" />
+    <Path Id="99135eab-653d-47e4-a378-c96e1278ca44.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Markup.Xaml.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Markup.Xaml.UnitTests.dll" />
+    <Path Id="99135eab-653d-47e4-a378-c96e1278ca44.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Markup.Xaml.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Markup.Xaml.UnitTests.dll" />
+    <Path Id="ac18926a-e784-40fe-b09d-bb0fe2b599f0.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Input.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Input.UnitTests.dll" />
+    <Path Id="ac18926a-e784-40fe-b09d-bb0fe2b599f0.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Input.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Input.UnitTests.dll" />
+    <Path Id="aec9031e-06ea-4a9e-9e7f-7d7c719404dd.OutputPath" Value="C:\gh\Avalonia\src\tools\MicroComGenerator\bin\Debug\netcoreapp3.1\MicroComGenerator.dll" />
+    <Path Id="aec9031e-06ea-4a9e-9e7f-7d7c719404dd.OutputPathUri" Value="file:///C:/gh/Avalonia/src/tools/MicroComGenerator/bin/Debug/netcoreapp3.1/MicroComGenerator.dll" />
+    <Path Id="af227847-e65c-4be9-bce9-b551357788e0.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Animation.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Animation.UnitTests.dll" />
+    <Path Id="af227847-e65c-4be9-bce9-b551357788e0.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Animation.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Animation.UnitTests.dll" />
+    <Path Id="af915d5c-ab00-4ea0-b5e6-001f4ae84e68.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.ReactiveUI.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.ReactiveUI.UnitTests.dll" />
+    <Path Id="af915d5c-ab00-4ea0-b5e6-001f4ae84e68.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.ReactiveUI.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.ReactiveUI.UnitTests.dll" />
+    <Path Id="b09b78d8-9b26-48b0-9149-d64a2f120f3f.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Base\bin\Debug\netstandard2.0\Avalonia.Base.dll" />
+    <Path Id="b09b78d8-9b26-48b0-9149-d64a2f120f3f.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Base/bin/Debug/netstandard2.0/Avalonia.Base.dll" />
+    <Path Id="b859ae7c-f34f-4a9e-88ae-e0e7229fde1e.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Headless.Vnc\bin\Debug\netstandard2.0\Avalonia.Headless.Vnc.dll" />
+    <Path Id="b859ae7c-f34f-4a9e-88ae-e0e7229fde1e.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Headless.Vnc/bin/Debug/netstandard2.0/Avalonia.Headless.Vnc.dll" />
+    <Path Id="bc594fd5-4af2-409e-a1e6-04123f54d7c5.OutputPath" Value="C:\gh\Avalonia\samples\MiniMvvm\bin\Debug\netstandard2.0\MiniMvvm.dll" />
+    <Path Id="bc594fd5-4af2-409e-a1e6-04123f54d7c5.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/MiniMvvm/bin/Debug/netstandard2.0/MiniMvvm.dll" />
+    <Path Id="bf28998d-072c-439a-afbb-2fe5021241e0.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Build.Tasks\bin\Debug\netstandard2.0\Avalonia.Build.Tasks.dll" />
+    <Path Id="bf28998d-072c-439a-afbb-2fe5021241e0.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Build.Tasks/bin/Debug/netstandard2.0/Avalonia.Build.Tasks.dll" />
+    <Path Id="c42d2fc1-a531-4ed4-84b9-89aec7c962fc.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Themes.Fluent\bin\Debug\netstandard2.0\Avalonia.Themes.Fluent.dll" />
+    <Path Id="c42d2fc1-a531-4ed4-84b9-89aec7c962fc.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Themes.Fluent/bin/Debug/netstandard2.0/Avalonia.Themes.Fluent.dll" />
+    <Path Id="c7a69145-60b6-4882-97d6-a3921dd43978.OutputPath" Value="C:\gh\Avalonia\samples\interop\WindowsInteropTest\bin\Debug\WindowsInteropTest.exe" />
+    <Path Id="c7a69145-60b6-4882-97d6-a3921dd43978.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/interop/WindowsInteropTest/bin/Debug/WindowsInteropTest.exe" />
+    <Path Id="cbc4ff2f-92d4-420b-be21-9fe0b930b04e.OutputPath" Value="C:\gh\Avalonia\src\Windows\Avalonia.Win32.Interop\bin\Debug\net461\Avalonia.Win32.Interop.dll" />
+    <Path Id="cbc4ff2f-92d4-420b-be21-9fe0b930b04e.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Windows/Avalonia.Win32.Interop/bin/Debug/net461/Avalonia.Win32.Interop.dll" />
+    <Path Id="d0a739b9-3c68-4ba6-a328-41606954b6bd.OutputPath" Value="C:\gh\Avalonia\samples\ControlCatalog\bin\Debug\netstandard2.0\ControlCatalog.dll" />
+    <Path Id="d0a739b9-3c68-4ba6-a328-41606954b6bd.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/ControlCatalog/bin/Debug/netstandard2.0/ControlCatalog.dll" />
+    <Path Id="d211e587-d8bc-45b9-95a4-f297c8fa5200.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Animation\bin\Debug\netstandard2.0\Avalonia.Animation.dll" />
+    <Path Id="d211e587-d8bc-45b9-95a4-f297c8fa5200.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Animation/bin/Debug/netstandard2.0/Avalonia.Animation.dll" />
+    <Path Id="d2221c82-4a25-4583-9b43-d791e3f6820c.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Controls\bin\Debug\netstandard2.0\Avalonia.Controls.dll" />
+    <Path Id="d2221c82-4a25-4583-9b43-d791e3f6820c.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Controls/bin/Debug/netstandard2.0/Avalonia.Controls.dll" />
+    <Path Id="d49233f8-f29c-47dd-9975-c4c9e4502720.OutputPath" Value="C:\gh\Avalonia\packages\Avalonia\bin\Debug\netstandard2.0\Avalonia.dll" />
+    <Path Id="d49233f8-f29c-47dd-9975-c4c9e4502720.OutputPathUri" Value="file:///C:/gh/Avalonia/packages/Avalonia/bin/Debug/netstandard2.0/Avalonia.dll" />
+    <Path Id="d775decb-4e00-4ed5-a75a-5fce58adff0b.OutputPath" Value="C:\gh\Avalonia\samples\PlatformSanityChecks\bin\Debug\netcoreapp3.1\PlatformSanityChecks.dll" />
+    <Path Id="d775decb-4e00-4ed5-a75a-5fce58adff0b.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/PlatformSanityChecks/bin/Debug/netcoreapp3.1/PlatformSanityChecks.dll" />
+    <Path Id="d78a720c-c0c6-478b-8564-f167f9bdd01b.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Remote.Protocol\bin\Debug\netstandard2.0\Avalonia.Remote.Protocol.dll" />
+    <Path Id="d78a720c-c0c6-478b-8564-f167f9bdd01b.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Remote.Protocol/bin/Debug/netstandard2.0/Avalonia.Remote.Protocol.dll" />
+    <Path Id="dabfd304-d6a4-4752-8123-c2ccf7ac7831.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Direct2D1.RenderTests\bin\Debug\netcoreapp3.1\Avalonia.Direct2D1.RenderTests.dll" />
+    <Path Id="dabfd304-d6a4-4752-8123-c2ccf7ac7831.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Direct2D1.RenderTests/bin/Debug/netcoreapp3.1/Avalonia.Direct2D1.RenderTests.dll" />
+    <Path Id="db070a10-bf39-4752-8456-86e9d5928478.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Layout.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Layout.UnitTests.dll" />
+    <Path Id="db070a10-bf39-4752-8456-86e9d5928478.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Layout.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Layout.UnitTests.dll" />
+    <Path Id="e1240b49-7b4b-4371-a00e-068778c5cf0b.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Skia.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Skia.UnitTests.dll" />
+    <Path Id="e1240b49-7b4b-4371-a00e-068778c5cf0b.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Skia.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Skia.UnitTests.dll" />
+    <Path Id="e1582370-37b3-403c-917f-8209551b1634.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Skia.RenderTests\bin\Debug\netcoreapp3.1\Avalonia.Skia.RenderTests.dll" />
+    <Path Id="e1582370-37b3-403c-917f-8209551b1634.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Skia.RenderTests/bin/Debug/netcoreapp3.1/Avalonia.Skia.RenderTests.dll" />
+    <Path Id="e1aa3dbf-9056-4530-9376-18119a7a3ffe.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.LeakTests\bin\Debug\net461\Avalonia.LeakTests.dll" />
+    <Path Id="e1aa3dbf-9056-4530-9376-18119a7a3ffe.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.LeakTests/bin/Debug/net461/Avalonia.LeakTests.dll" />
+    <Path Id="e2999e4a-9086-401f-898c-aeb0ad38e676.OutputPath" Value="C:\gh\Avalonia\samples\RemoteDemo\bin\Debug\netcoreapp3.1\RemoteDemo.dll" />
+    <Path Id="e2999e4a-9086-401f-898c-aeb0ad38e676.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/RemoteDemo/bin/Debug/netcoreapp3.1/RemoteDemo.dll" />
+    <Path Id="eb582467-6abb-43a1-b052-e981ba910e3a.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Visuals\bin\Debug\netstandard2.0\Avalonia.Visuals.dll" />
+    <Path Id="eb582467-6abb-43a1-b052-e981ba910e3a.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Visuals/bin/Debug/netstandard2.0/Avalonia.Visuals.dll" />
+    <Path Id="efb11458-9cdf-41c0-be4f-44af45a4cab8.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.Direct2D1.UnitTests\bin\Debug\netcoreapp3.1\Avalonia.Direct2D1.UnitTests.dll" />
+    <Path Id="efb11458-9cdf-41c0-be4f-44af45a4cab8.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.Direct2D1.UnitTests/bin/Debug/netcoreapp3.1/Avalonia.Direct2D1.UnitTests.dll" />
+    <Path Id="f1381f98-4d24-409a-a6c5-1c5b1e08bb08.OutputPath" Value="C:\gh\Avalonia\tests\Avalonia.DesignerSupport.TestApp\bin\Debug\netcoreapp3.1\Avalonia.DesignerSupport.TestApp.dll" />
+    <Path Id="f1381f98-4d24-409a-a6c5-1c5b1e08bb08.OutputPathUri" Value="file:///C:/gh/Avalonia/tests/Avalonia.DesignerSupport.TestApp/bin/Debug/netcoreapp3.1/Avalonia.DesignerSupport.TestApp.dll" />
+    <Path Id="f1baa01a-f176-4c6a-b39d-5b40bb1b148f.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.Styling\bin\Debug\netstandard2.0\Avalonia.Styling.dll" />
+    <Path Id="f1baa01a-f176-4c6a-b39d-5b40bb1b148f.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.Styling/bin/Debug/netstandard2.0/Avalonia.Styling.dll" />
+    <Path Id="f1fdc5b0-4654-416f-ae69-e3e9bbd87801.OutputPath" Value="C:\gh\Avalonia\samples\RenderDemo\bin\Debug\netcoreapp3.1\RenderDemo.dll" />
+    <Path Id="f1fdc5b0-4654-416f-ae69-e3e9bbd87801.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/RenderDemo/bin/Debug/netcoreapp3.1/RenderDemo.dll" />
+    <Path Id="f40fc0a2-1bc3-401c-bfc1-928ec4d4a9ce.OutputPath" Value="C:\gh\Avalonia\samples\Previewer\bin\Debug\netcoreapp3.1\Previewer.dll" />
+    <Path Id="f40fc0a2-1bc3-401c-bfc1-928ec4d4a9ce.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/Previewer/bin/Debug/netcoreapp3.1/Previewer.dll" />
+    <Path Id="fbcaf3d0-2808-4934-8e96-3f607594517b.OutputPath" Value="C:\gh\Avalonia\samples\VirtualizationDemo\bin\Debug\netcoreapp3.1\VirtualizationDemo.dll" />
+    <Path Id="fbcaf3d0-2808-4934-8e96-3f607594517b.OutputPathUri" Value="file:///C:/gh/Avalonia/samples/VirtualizationDemo/bin/Debug/netcoreapp3.1/VirtualizationDemo.dll" />
+    <Path Id="fe2f3e5e-1e34-4972-8dc1-5c2c588e5ece.OutputPath" Value="C:\gh\Avalonia\src\Avalonia.MicroCom\bin\Debug\netstandard2.0\Avalonia.MicroCom.dll" />
+    <Path Id="fe2f3e5e-1e34-4972-8dc1-5c2c588e5ece.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Avalonia.MicroCom/bin/Debug/netstandard2.0/Avalonia.MicroCom.dll" />
+    <Path Id="ff69b927-c545-49ae-8e16-3d14d621aa12.OutputPath" Value="C:\gh\Avalonia\src\Android\Avalonia.AndroidTestApplication\bin\Debug\Avalonia.AndroidTestApplication.dll" />
+    <Path Id="ff69b927-c545-49ae-8e16-3d14d621aa12.OutputPathUri" Value="file:///C:/gh/Avalonia/src/Android/Avalonia.AndroidTestApplication/bin/Debug/Avalonia.AndroidTestApplication.dll" />
+  </Paths>
+</DirectedGraph>
