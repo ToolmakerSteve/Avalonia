@@ -210,3 +210,5 @@ obj-Skia/
 coc-settings.json
 .ccls-cache
 .ccls
+nukebuild/Numerge.zip
+src/Markup.zip
