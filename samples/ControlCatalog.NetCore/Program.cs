@@ -11,6 +11,7 @@ using Avalonia.Dialogs;
 using Avalonia.Headless;
 using Avalonia.LogicalTree;
 using Avalonia.Threading;
+using SkiaSharp;
 
 namespace ControlCatalog.NetCore
 {
@@ -29,6 +30,9 @@ namespace ControlCatalog.NetCore
                         break;
                 }
             }
+
+            SKCanvas canvas = PrepExternalSkiaCanvas();
+            Avalonia.Skia.Helpers.DrawingContextHelper.ExternalCanvas = canvas;   // tmstest
 
             var builder = BuildAvaloniaApp();
 
@@ -119,6 +123,31 @@ namespace ControlCatalog.NetCore
                 .UseSkia()
                 .UseManagedSystemDialogs()
                 .LogToTrace();
+
+
+
+        const bool PrepSkiaViaUrho = false;
+
+        /// <summary>
+        /// TMS: Provide a Skia canvas that Avalonia should render to.
+        /// Version 1: Directly create the canvas.
+        /// TODO Version 2: Start Urho3D Sample, which creates the canvas.
+        /// </summary>
+        private static SKCanvas PrepExternalSkiaCanvas()
+        {
+            if (!PrepSkiaViaUrho)
+            {   // Version 1: Directly create the canvas.
+                // TODO: Get size from environment|context. Window?
+                SKSizeI size = new SKSizeI(500, 500);
+                var bitmap = new SKBitmap(size.Width, size.Height);
+                SKCanvas canvas = new SKCanvas(bitmap);
+                return canvas;
+            }
+            else
+            {   // TODO Version 2: Start Urho3D Sample, which creates the canvas.
+
+            }
+        }
 
         static void SilenceConsole()
         {

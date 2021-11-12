@@ -20,6 +20,8 @@ namespace Avalonia.Skia
     /// </summary>
     internal class PlatformRenderInterface : IPlatformRenderInterface, IOpenGlAwarePlatformRenderInterface
     {
+        public const bool TestExternalSurfaceAsRenderTarget = true;   // TMS
+
         private readonly ISkiaGpu _skiaGpu;
 
         public PlatformRenderInterface(ISkiaGpu skiaGpu, long? maxResourceBytes = null)
@@ -171,6 +173,15 @@ namespace Avalonia.Skia
         /// <inheritdoc />
         public IRenderTarget CreateRenderTarget(IEnumerable<object> surfaces)
         {
+            if (TestExternalSurfaceAsRenderTarget)
+            {
+                var canvas = Avalonia.Skia.Helpers.DrawingContextHelper.ExternalCanvas;
+                if (canvas != null)
+                {
+                    return new CanvasRenderTarget(canvas);
+                }
+            }
+
             if (!(surfaces is IList))
                 surfaces = surfaces.ToList();
             var gpuRenderTarget = _skiaGpu?.TryCreateRenderTarget(surfaces);

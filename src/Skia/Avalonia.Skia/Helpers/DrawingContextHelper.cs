@@ -6,6 +6,9 @@ namespace Avalonia.Skia.Helpers
 {
     public class DrawingContextHelper
     {
+        // HACK for PlatformRenderInterface.TestExternalSurfaceAsRenderTarget.
+        public static SKCanvas ExternalCanvas;
+
         /// <summary>
         /// Wrap Skia canvas in drawing context so we can use Avalonia api to render to external skia canvas
         /// this is useful in scenarios where canvas is not controlled by application, but received from another non avalonia api
