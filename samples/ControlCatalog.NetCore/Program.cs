@@ -32,7 +32,9 @@ namespace ControlCatalog.NetCore
             }
 
             SKCanvas canvas = PrepExternalSkiaCanvas();
-            Avalonia.Skia.Helpers.DrawingContextHelper.ExternalCanvas = canvas;   // tmstest
+            // Uncomment to have Avalonia draw to ExternalCanvas.
+            // TMS: Result is Avalonia's MainWindow is completely transparent.
+            //Avalonia.Skia.Helpers.DrawingContextHelper.ExternalCanvas = canvas;   // tmstest
 
             var builder = BuildAvaloniaApp();
 
