@@ -197,6 +197,9 @@
     <ProjectReference Include="..\src\Avalonia.Desktop\Avalonia.Desktop.csproj" />
     <ProjectReference Include="..\src\Avalonia.Dialogs\Avalonia.Dialogs.csproj" />
     <ProjectReference Include="..\src\Avalonia.ReactiveUI\Avalonia.ReactiveUI.csproj" />
+    <ProjectReference Include="..\src\Avalonia.X11\Avalonia.X11.csproj" />
+    <ProjectReference Include="..\src\iOS\Avalonia.iOS\Avalonia.iOS.csproj" />
     <ProjectReference Include="..\src\Skia\Avalonia.Skia\Avalonia.Skia.csproj" />
+    <ProjectReference Include="..\src\Windows\Avalonia.Win32\Avalonia.Win32.csproj" />
   </ItemGroup>
 </Project>

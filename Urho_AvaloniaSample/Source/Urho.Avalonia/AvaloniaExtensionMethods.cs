@@ -3,13 +3,13 @@ using Avalonia;
 using Avalonia.Dialogs;
 using Urho.Gui;
 using Urho.Urho2D;
-//using Avalonia.ReactiveUI;
+using Avalonia.ReactiveUI;
 using System.Runtime.InteropServices;
 using Avalonia.Platform;
 using Avalonia.Controls.Platform;
-//using Avalonia.Native;
-//using Avalonia.FreeDesktop;
-//using Avalonia.Win32;
+using Avalonia.Native;
+using Avalonia.FreeDesktop;
+using Avalonia.Win32;
 
 namespace Urho.Avalonia
 {
