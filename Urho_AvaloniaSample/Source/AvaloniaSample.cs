@@ -3,8 +3,6 @@ using System;
 using Urho.Gui;
 using Urho.Avalonia;
 using Urho.IO;
-using Todo.Services;
-using  Todo.ViewModels;
 using Avalonia.Styling;
 using Avalonia.Markup.Xaml.Styling;
 
@@ -70,20 +68,6 @@ namespace AvaloniaSample
             if (camera != null)
                 SimpleMoveCamera3D(timeStep);
 		}
-
-        void InitializeAvaloniaTodoDemo()
-	   {
-		    avaloniaContext = Context.ConfigureAvalonia<Todo.App>();
-			avaloniaContext.RenderScaling = 2.0;
-
-            var db = new Todo.Services.Database();
-            var mainWindow = new Todo.Views.MainWindow()
-            {
-                DataContext = new Todo.ViewModels.MainWindowViewModel(db),
-            };
-            mainWindow.Position = new Avalonia.PixelPoint(10, 10);
-            mainWindow.Show(UI.Root);
-	   }
 
 		void InitializeAvaloniaControlCatalogDemo()
 		{
