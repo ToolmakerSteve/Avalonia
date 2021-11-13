@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -187,11 +187,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Dock.Model.ReactiveUI" Version="0.10.7" />
-    <PackageReference Include="Dock.Avalonia" Version="0.10.7" />
+    <PackageReference Include="Avalonia.Angle.Windows.Natives" Version="2.1.0.2020091801" />
     <PackageReference Include="SkiaSharp" Version="2.88.0-preview.155" />
+    <PackageReference Include="System.Reactive" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\packages\Avalonia\Avalonia.csproj" />
     <ProjectReference Include="..\src\Avalonia.Controls\Avalonia.Controls.csproj" />
+    <ProjectReference Include="..\src\Avalonia.Desktop\Avalonia.Desktop.csproj" />
+    <ProjectReference Include="..\src\Avalonia.Dialogs\Avalonia.Dialogs.csproj" />
+    <ProjectReference Include="..\src\Avalonia.ReactiveUI\Avalonia.ReactiveUI.csproj" />
+    <ProjectReference Include="..\src\Skia\Avalonia.Skia\Avalonia.Skia.csproj" />
   </ItemGroup>
 </Project>

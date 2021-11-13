@@ -1,0 +1,6 @@
+Steps to build Avalonia sources from scratch, and get ControlCatalog.NetCore sample and Urho.Net's AvaloniaSample to work.
+
+1. Deleted all bin and obj, made sure no references to Avalonia nugets, except their "Angle" nuget.
+
+2. CSC : error CS0006: Metadata file 'C:\gh\Avalonia\src\Avalonia.DesktopRuntime\bin\Debug\net461\Avalonia.DesktopRuntime.dll' could not be found
+FIX: Manually Build  Avalonia.DesktopRuntime project.

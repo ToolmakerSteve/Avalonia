@@ -32,7 +32,7 @@ namespace ControlCatalog.NetCore
             }
 
             SKCanvas canvas = PrepExternalSkiaCanvas();
-            Avalonia.Skia.Helpers.DrawingContextHelper.ExternalCanvas = canvas;   // tmstest
+            //Avalonia.Skia.Helpers.DrawingContextHelper.ExternalCanvas = canvas;   // tmstest
 
             var builder = BuildAvaloniaApp();
 
