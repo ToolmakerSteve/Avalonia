@@ -85,66 +85,6 @@ namespace AvaloniaSample
             mainWindow.Show(UI.Root);
 	   }
 
-	   void InitializeAvaloniaDockDemo()
-	   {
-
-            avaloniaContext = Context.ConfigureAvalonia<AvaloniaDockApplication.App>();
-			avaloniaContext.RenderScaling = 2.0;
-
-            var factory = new AvaloniaDockApplication.MainDockFactory(new AvaloniaDockApplication.Models.DemoData());
-            var layout = factory.CreateLayout();
-            factory.InitLayout(layout);
-
-            var mainWindowViewModel = new AvaloniaDockApplication.ViewModels.MainWindowViewModel()
-            {
-                Factory = factory,
-                Layout = layout
-            };
-
-            var mainWindow = new AvaloniaDockApplication.Views.MainWindow
-            {
-                DataContext = mainWindowViewModel
-            };
-
-			 mainWindow.Show(UI.Root);
-	   }
-
-
-        void InitializeAvaloniaDockDemo2()
-        {
-
-            avaloniaContext = Context.ConfigureAvalonia<AvaloniaDemo.App>();
-			avaloniaContext.RenderScaling = 2.0;
-
-            var mainWindowViewModel = new AvaloniaDemo.ViewModels.MainWindowViewModel();
-            var mainWindow = new AvaloniaDemo.Views.MainWindow
-            {
-                DataContext = mainWindowViewModel
-            };
-
-            mainWindow.Show(UI.Root);
-            mainWindow.Position = new Avalonia.PixelPoint(0, 0);
-        }
-
-		void InitializeAvaloniaNotePadDemo()
-		{
-			 avaloniaContext = Context.ConfigureAvalonia<Notepad.App>();
-			avaloniaContext.RenderScaling = 2.0;
-
-            var mainWindowViewModel = new Notepad.ViewModels.MainWindowViewModel();
-
-            var mainWindow = new Notepad.Views.MainWindow
-            {
-                DataContext = mainWindowViewModel
-            };
-
-			AvaloniaUrhoContext.MainWindow = mainWindow;
-            mainWindow.Show(UI.Root);
-            mainWindow.Position = new Avalonia.PixelPoint(0, 0);
-		
-
-		}
-
 		void InitializeAvaloniaControlCatalogDemo()
 		{
             avaloniaContext = Context.ConfigureAvalonia<ControlCatalog.App>();

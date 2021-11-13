@@ -15,7 +15,7 @@
     <PackageReference Include="Avalonia.Angle.Windows.Natives" Version="2.1.0.2020091801" />
   </ItemGroup>
 
-  <PropertyGroup>
+  <PropertyGroup> 
     <!-- For Microsoft.CodeAnalysis -->
     <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
   </PropertyGroup>
